@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin-top: 180px;
+}
+
+body{
+  background-color: aqua;
+}
+
+.botao1, .botao2{
+  margin-left: 20px;
+  padding: 10px;
+  font-weight: bolder;
+  background-color: rgb(119, 119, 145);
+  border-radius: 15px;
+  border: none;
+  color: white;
+}
+
+.botao1:hover, .botao2:hover{
+  background-color: rgba(151, 151, 179, 0.8);
+}
